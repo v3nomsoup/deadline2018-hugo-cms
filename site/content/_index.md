@@ -1,6 +1,6 @@
 ---
 title: Deadline 2018
-subtitle: 'YOUR FAVOURITE DEADLINE RETURNS ON '
+subtitle: YOUR FAVOURITE DEADLINE RETURNS!
 image: /img/teaser_bg.png
 blurb:
   heading: 'October, 5th - 7th, ORWOHaus, Berlin'
